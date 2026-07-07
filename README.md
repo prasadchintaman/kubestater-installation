@@ -1,0 +1,1 @@
+# kubestater-installation
